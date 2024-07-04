@@ -1,45 +1,5 @@
 # Universal Student Profiling System
 
-## Repository Structure
-
-```
-Universal-Student-Profiling-System/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-│
-├── src/
-│   ├── facial_recognition/
-│   │   ├── facial_recognition.py
-│   │   └── one_shot_learning.py
-│   │
-│   ├── rfid/
-│   │   └── rfid_detection.py
-│   │
-│   ├── activity_detection/
-│   │   └── violence_detection.py
-│   │
-│   └── gui/
-│       ├── jetson_gui.py
-│       └── pc_gui.py
-│
-├── models/
-│   └── violence_nonviolence.h5
-│
-├── data/
-│   └── PHOTOS/
-│
-├── docs/
-│   └── PD_LAB_DOCU_GRP23.pdf
-│
-└── requirements.txt
-```
-
-## README.md Content
-
-# Universal Student Profiling System
-
 ## Overview
 The Universal Student Profiling System is an advanced campus security and management solution developed by a team of B.Tech 6th Semester Electronics and Communication Engineering students. It integrates facial recognition, RFID-based access control, and AI-driven activity detection to enhance campus safety and streamline operations.
 
@@ -77,12 +37,12 @@ The Universal Student Profiling System is an advanced campus security and manage
 
 1. Start the Jetson Nano GUI:
    ```
-   python src/gui/jetson_gui.py
+   python USPSS_PROFILE_HUB_JETSON.py   or  run the executable USPSS_PROFILE_HUB_JETSON
    ```
 
 2. On a remote PC, start the control GUI:
    ```
-   python src/gui/pc_gui.py
+   python USPSS_PROFILE_HUB_PC.py
    ```
 
 3. Follow the on-screen instructions to connect to the Jetson Nano and control the system.
