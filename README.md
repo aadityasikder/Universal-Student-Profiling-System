@@ -37,12 +37,12 @@ The Universal Student Profiling System is an advanced campus security and manage
 
 1. Start the Jetson Nano GUI:
    ```
-   python src/gui/jetson_gui.py
+   python USPSS_PROFILE_HUB_JETSON.py   or  run the executable USPSS_PROFILE_HUB_JETSON
    ```
 
 2. On a remote PC, start the control GUI:
    ```
-   python src/gui/pc_gui.py
+   python USPSS_PROFILE_HUB_PC.py
    ```
 
 3. Follow the on-screen instructions to connect to the Jetson Nano and control the system.
@@ -62,3 +62,9 @@ The Universal Student Profiling System is an advanced campus security and manage
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Usage
+### Running the System
+1. Start the Arduino RFID reader.
+2. Run the main profiling system:
+   ```bash
+   python JETSON_SIDE/USPSS_PROFILE_HUB_JETSON.py
