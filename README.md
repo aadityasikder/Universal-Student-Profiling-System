@@ -23,7 +23,7 @@ The Universal Student Profiling System is an advanced campus security and manage
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/Universal-Student-Profiling-System.git
+   git clone https://github.com/aadityasikder/Universal-Student-Profiling-System.git
    ```
 
 2. Install the required dependencies:
