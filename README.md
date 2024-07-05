@@ -16,6 +16,7 @@ The Universal Student Profiling System is an advanced campus security and manage
 - TensorFlow / Keras
 - Face Recognition library
 - MFRC522 RFID library
+- Arduino UNO
 - Tkinter for GUI
 - Paramiko for SSH communication
 
@@ -49,8 +50,8 @@ The Universal Student Profiling System is an advanced campus security and manage
 
 ## Project Structure
 
-- `src/`: Contains the source code for facial recognition, RFID detection, activity detection, and GUI.
-- `models/`: Stores the trained machine learning models.
+- `Universal-Student-Profiling-System/`: Contains the source code for facial recognition, RFID detection, activity detection, and GUI.
+- `JETSON_SIDE/`: Stores the code, executable, photos that needs to be identified, One-shot Machine Learning model from the Jetson Nano Side
 - `data/`: Includes sample data and photos for facial recognition.
 - `docs/`: Contains project documentation.
 
