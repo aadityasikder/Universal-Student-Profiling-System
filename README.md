@@ -52,8 +52,10 @@ The Universal Student Profiling System is an advanced campus security and manage
 
 - `Universal-Student-Profiling-System/`: Contains the source code for facial recognition, RFID detection, activity detection, and GUI.
 - `JETSON_SIDE/`: Stores the code, executable, photos that needs to be identified, One-shot Machine Learning model from the Jetson Nano Side
-- `data/`: Includes sample data and photos for facial recognition.
-- `docs/`: Contains project documentation.
+- `JETSON_SIDE/PHOTOS`: Includes sample data and photos for facial recognition.
+- 'ARDUINO_SIDE/': Contains code that is loaded in arduino to implement the RFID
+- 'PC_SIDE/': Contains executable GUI program to control facial entry and RFID entry system that will be stored in  a file as csv
+- `Documentation/`: Contains project documentation.
 
 ## Contributors
 - Gourab Chowdhury (121EC0268)
