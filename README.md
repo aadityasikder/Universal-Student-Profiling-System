@@ -27,12 +27,7 @@ The Universal Student Profiling System is an advanced campus security and manage
    git clone https://github.com/aadityasikder/Universal-Student-Profiling-System.git
    ```
 
-2. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Set up the Jetson Nano and RFID reader according to the hardware specifications in the documentation.
+2. Set up the Jetson Nano and RFID reader according to the hardware specifications in the documentation.
 
 ## Usage
 
@@ -58,10 +53,9 @@ The Universal Student Profiling System is an advanced campus security and manage
 - `Documentation/`: Contains project documentation.
 
 ## Contributors
-- Gourab Chowdhury (121EC0268)
-- Yuvraj Dutta (121EC0272)
-- Aaditya Sikder (121EC0303)
-- Tridib Jyoti Das (121EC0899)
+- [Aaditya Sikder](https://github.com/aadityasikder)
+- [Tridib Jyoti Das](https://github.com/wheezydeeeb)
+- [Yuvraj Dutta](https://github.com/YDT007))
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
