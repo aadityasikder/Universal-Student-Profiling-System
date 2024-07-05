@@ -55,7 +55,7 @@ The Universal Student Profiling System is an advanced campus security and manage
 ## Contributors
 - [Aaditya Sikder](https://github.com/aadityasikder)
 - [Tridib Jyoti Das](https://github.com/wheezydeeeb)
-- [Yuvraj Dutta](https://github.com/YDT007))
+- [Yuvraj Dutta](https://github.com/YDT007)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
