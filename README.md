@@ -41,7 +41,7 @@ The Universal Student Profiling System is an advanced campus security and manage
    python USPSS_PROFILE_HUB_PC.py
    ```
 
-3. Follow the on-screen instructions to connect to the Jetson Nano and control the system.
+3. Follow the DOCUMENTATION.pdf and its reference instructions to connect to the Jetson Nano, control the system and also get necessary packages.
 
 ## Project Structure
 
